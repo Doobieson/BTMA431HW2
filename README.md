@@ -1,2 +1,3 @@
 # BTMA431HW2
 Repository for BTMA 431 HW 2, completed October 2022 
+After the first assignment in the course, they immediately hand you a set of problems that require some critical thinking and problem-solving skills. While it incorporated some simple "if" statement logic at the beginning, this assignment wasn't so much about math but sought to highlight a different way of thinking you needed to discover. Designing the logic from the outside -> in, handling all the edge cases first and then handling every other generic case. This also introduced some simple simulation that isn't used too frequently for the rest of the course.
